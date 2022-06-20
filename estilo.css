@@ -1,0 +1,50 @@
+.cuerpo_1 {
+    background-image: url("https://cdn.discordapp.com/attachments/427954370450030614/988273560378286170/Huevefano.png");
+    background-repeat: no-repeat;
+    background-size: 55rem;
+}
+
+body{
+    font-family: Oswald;
+}
+
+
+ul{
+    display: inline;
+
+}
+
+a{
+    margin: 10px;
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+.elemento {
+    background-color: yellow;
+    padding: 9px;
+    border-radius: 7px;
+}
+
+.elemento a {
+    color: black;
+}
+
+
+/* -----Unete.html------- */
+
+.elemento_2 {
+    background-color: yellow;
+    padding: 9px;
+    border-radius: 7px;
+}
+
+.elemento_2 a {
+    color: black;
+}
+
+.imagen {
+    margin-left: 45%;
+}
